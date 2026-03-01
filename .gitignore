@@ -2,3 +2,7 @@
 bike sharing dataset/
 human activity recognition using smartphones/
 individual household electric power consumption/
+preprocessed_data/
+Amir/
+.vscode/
+*.pth
